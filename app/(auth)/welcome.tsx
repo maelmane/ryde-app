@@ -3,7 +3,7 @@ import { useRef, useState } from "react";
 import { View, Text, TouchableOpacity, Image } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Swiper from "react-native-swiper";
-import { onboarding } from "../../constants";
+import { onboarding } from "@/constants";
 import CustomButton from "@/components/CustomButton";
 
 const Onboarding = () => {
